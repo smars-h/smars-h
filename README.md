@@ -8,4 +8,6 @@ My current projects are: [Yugo++](https://discord.com/oauth2/authorize?client_id
 
 You can reach me on discord (smarsh1#3074).
 
+![](https://media.giphy.com/media/mI1aQvL12oZn9AJEaz/giphy.gif)
+
 Thank you for reading!
